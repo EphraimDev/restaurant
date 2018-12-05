@@ -3588,6 +3588,19 @@ img {
   margin: 0 auto;
 }
 
+.form-link {
+  margin-right: 0;
+  float: left;
+}
+
+.form-link a {
+  cursor: pointer;
+}
+
+.form-link a:hover {
+  color: #70c745 !important
+}
+
 .contact-form-area .form-control {
   position: relative;
   z-index: 2;
