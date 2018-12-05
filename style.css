@@ -2223,6 +2223,7 @@ img {
   position: relative;
   z-index: 1;
   margin-bottom: 50px;
+  float: left;
 }
 
 .single-service-area:last-child {
@@ -2677,8 +2678,9 @@ img {
   -webkit-box-flex: 0;
   -ms-flex: 0 0 50%;
   flex: 0 0 50%;
-  max-width: 50%;
-  width: 50%;
+  max-width: 100%;
+  width: 100%;
+  margin: auto
 }
 
 .footer-area .single-footer-widget .widget-nav ul li a {
