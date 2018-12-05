@@ -3584,6 +3584,10 @@ img {
   }
 }
 
+.col-lg-5 {
+  margin: 0 auto;
+}
+
 .contact-form-area .form-control {
   position: relative;
   z-index: 2;
